@@ -1,0 +1,1 @@
+{"design":{"duration":2},"build":{"needs":["design"],"duration":4},"docs":{"needs":["design"],"duration":1},"release":{"needs":["build","docs"],"duration":1}}
